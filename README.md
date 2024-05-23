@@ -24,6 +24,9 @@ Module is designed to facilitate the creation, management, and evaluation of mul
 2. Timer: Timer functionality to limit the time users have to complete a test.
 3. Save Progress: Ability to save progress and resume later if needed.
 
+##Admin Login:
+User: admin@admin.com
+Password: 12345678
 ## Authors
 
 - [@davinderchahal](https://www.github.com/davinderchahal)
